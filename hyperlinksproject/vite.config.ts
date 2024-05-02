@@ -5,7 +5,7 @@ export default defineConfig({
 	plugins: [sveltekit()],
 	resolve: {
 		alias: {
-			$styles: '/src/styles', // Caminho para onde `global.css` está localizado
+			$styles: '/src/styles',
 			$lib: '/src/lib',
 			$routes: '/src/routes'
 		}

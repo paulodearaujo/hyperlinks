@@ -13,7 +13,7 @@ const config = {
 			strict: false
 		}),
 		paths: {
-			base: dev ? '' : '/HyperlinksProject'
+			base: dev ? '' : '/hyperlinks'
 		},
 		appDir: 'internal'
 	}
